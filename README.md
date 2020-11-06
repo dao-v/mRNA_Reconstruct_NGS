@@ -9,6 +9,7 @@ Then simply run the cells.
 Smaller necessary files are included in this GitHub repository while other files will be downloaded from this notebook.
 Download speeds from the European Bioinformatics Institute vary and could take a while.
 Estimated time to completion: About a week
+The final products of most interest are probably in these folders: Counts, Reconstruct, and Summary.
 
 #### System Requirements:
 This project requires about 40 GBs of storage (NGS data are large files).
